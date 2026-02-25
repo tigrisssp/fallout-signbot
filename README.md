@@ -21,16 +21,16 @@
 
 #### 步驟 1：下載檔案
 請至 [Releases] 頁面下載以下兩個檔案，並放在 **同一個資料夾** 內：
-* `簽到程式.exe` (主程式)
+* `fallout-signbot.exe` (主程式)
 * `config_generator.html` (設定檔產生器)
 
 #### 步驟 2：產生設定檔
 1. 雙擊打開 `config_generator.html`。
 2. 點擊 **+ 新增帳號**，填入您的 ID 與 Email。
 3. 點擊 **+ 新增目標**，填入您想簽到的 Bot ID (例如 `orange_bank`)。
-4. 設定完成後，點擊 **💾 下載 config.json**。
-5. **將下載的 `config.json` 放入跟 `簽到程式.exe` 同一個資料夾中。**
+4. 設定完成後，點擊 **下載 config.json**。
+5. **將下載的 `config.json` 放入跟 `fallout-signbot.exe` 同一個資料夾中。**
 
 #### 步驟 3：啟動
-雙擊 `簽到程式.exe` 即可開始簽到。
+雙擊 `fallout-signbot.exe` 即可開始簽到。
 *(第一次執行時需要進行微軟登入驗證，請依照視窗指示操作)*
